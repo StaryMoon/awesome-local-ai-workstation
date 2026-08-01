@@ -82,6 +82,7 @@ If you want a clean local AI workstation, start here:
 | [vibe-trading-bot](https://github.com/StaryMoon/vibe-trading-bot) | Trading research dashboard | Risk-first paper/sandbox/live-gated crypto assistant with Obsidian reports. |
 | [DailyDesk](https://github.com/StaryMoon/DailyDesk) | Desktop planner | macOS glass desktop planner that can sit on the desktop like a local workflow widget. |
 | [OpenHands](https://github.com/All-Hands-AI/OpenHands) | Software agent workspace | Agentic software-development workspace that can be connected to local providers. |
+| [Orkas](https://github.com/Orkas-AI/Orkas) | Multi-agent desktop workspace | Local-first desktop app where a Commander coordinates specialist agents while conversations, files, and configuration remain locally stored. |
 
 ## Workstation Patterns
 

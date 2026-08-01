@@ -159,5 +159,12 @@
     "category": "agent-workspace",
     "use_case": "Software agent workspace",
     "note": "Agentic software-development workspace that can be connected to local providers."
+  },
+  {
+    "name": "Orkas",
+    "url": "https://github.com/Orkas-AI/Orkas",
+    "category": "agent-workspace",
+    "use_case": "Multi-agent desktop workspace",
+    "note": "Local-first desktop app where a Commander coordinates specialist agents while conversations, files, and configuration remain locally stored."
   }
 ]
